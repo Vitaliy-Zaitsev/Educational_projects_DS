@@ -96,7 +96,7 @@ Python, Pandas, Scikit-learn, NumPy, Nltk, re, PyTorch, Transformers, CatBoost, 
 Лучшая модель LinearRegressor(), max_lag = 171, rolling_mean_size = 48, RMSE на тесте 34,7
 
 
-![image](https://github.com/Vitaliy-Zaitsev/Educational_project_5_ML_TimeSeries/assets/120369294/5960d535-61c3-4ef6-bbea-c98589d723d3)
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/a71ffb4d-45f4-4554-870b-a2a2a032ff73)
 
 
 #### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
