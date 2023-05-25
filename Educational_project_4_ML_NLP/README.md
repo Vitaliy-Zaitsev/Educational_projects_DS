@@ -16,4 +16,4 @@ Python, Pandas, Scikit-learn, NumPy, Nltk, re, PyTorch, Transformers, CatBoost, 
 Лучший результат показала LGBMClassifier c CountVectorizer, f1 = 0.778.
 
 ![image](https://github.com/Vitaliy-Zaitsev/Educational_project_4_ML_NLP/assets/120369294/0b3040a7-feaf-4bec-a3f7-a28f8d73b5b3)
-#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects)
+#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
