@@ -70,7 +70,9 @@ Python, Pandas, Scikit-learn, NumPy, GridSearchCV
 В проекте было исследовано 3 модели по двум метрикам: F1-мера и AUC-ROC.
 
 
-![image](https://github.com/Vitaliy-Zaitsev/Educational_project_3_ML_Classification/assets/120369294/448f0278-5569-4388-9054-7d2934a5bf3f)
+
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/91a4ff4a-3e7a-4314-b0dc-f176d66d562d)
+
 
 
 Метод взвешивания классов на модели случайный лес дал максимальные метрики.
