@@ -75,4 +75,4 @@ Python, Pandas, Scikit-learn, NumPy, GridSearchCV
 
 Метод взвешивания классов на модели случайный лес дал максимальные метрики.
 
-#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects)
+#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
