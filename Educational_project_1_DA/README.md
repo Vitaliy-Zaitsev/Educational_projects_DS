@@ -20,4 +20,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Stats
 - PS4
 - 3DS
 
-#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects)
+#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
