@@ -26,7 +26,7 @@ Python, Pandas, Scikit-learn, NumPy, matplotlib, CatBoost, LightGBM
 ## Итоги проекта
 Были обучены и проанализированы 3 модели
 
-![image](https://github.com/Vitaliy-Zaitsev/Educational_project_7_ML_Data_preprocessing/assets/120369294/c58dea1c-9b17-4c6f-a10e-537de208242d)
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/05f1f146-5496-41d7-9de7-4afebe26e18a)
 
 
 Лучшая модель LightGBM на тестовой выборке показала результат по метрике RMSE: 1643
