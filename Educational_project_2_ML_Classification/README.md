@@ -12,4 +12,4 @@
 Python, Pandas, Scikit-learn, GridSearchCV
 ## Результат проекта
 на тестовой выборке accuracy=0.804 
-#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects)
+#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
