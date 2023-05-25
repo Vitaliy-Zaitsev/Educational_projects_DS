@@ -99,4 +99,4 @@ Python, Pandas, Scikit-learn, NumPy, Nltk, re, PyTorch, Transformers, CatBoost, 
 ![image](https://github.com/Vitaliy-Zaitsev/Educational_project_5_ML_TimeSeries/assets/120369294/5960d535-61c3-4ef6-bbea-c98589d723d3)
 
 
-#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects)
+#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
