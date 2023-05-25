@@ -21,4 +21,4 @@ Python, Pandas, Scikit-learn, NumPy, LaTex
 Ни один из перечисленных алгоритмов преобразования данных не меняет качества модели *LinearRegression*.\
 Наибольшую защиту персональных данных дает умножение матрицы признаков на обратимую матрицу.
 
-#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects)
+#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
