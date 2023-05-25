@@ -32,4 +32,4 @@ Python, Pandas, Scikit-learn, NumPy, matplotlib, CatBoost, LightGBM
 Лучшая модель LightGBM на тестовой выборке показала результат по метрике RMSE: 1643
 
 
-#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects)
+#### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
