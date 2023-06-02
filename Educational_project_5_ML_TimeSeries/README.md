@@ -4,7 +4,19 @@
 
 ## Описание проекта
 Был проведен предварительный анализ данных, данные приведины к нужному формату.\
-Был проведен анализ тренда и сезонности.\
+Был проведен анализ тренда и сезонности.
+
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/4b8598af-3c97-464d-bbf6-fff44fccf3a4)
+
+
+
+На графике виден тренд на увеличение количества заказов ближе к концу лета.\
+Сезонность просматривается в периоде одного дня.
+
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/4507b250-dcda-4189-b13b-68fc2c2fc4a4)
+
+
+
 Написана функция для создания новых признаков (отстающие значения и скользящая средняя) и разбивки полученного датасета на обучающую и тренировочную выборки.
 
 ```python
@@ -87,16 +99,18 @@
 
 Обученные модели, оптимальные гиперпараметры к ним, оптимальные значения количества lag features и скользящего среднего для каждой модели сохранены в итоговую таблицу.\
 Проведено тестирование лучшей модели.\
-Построены графики сравнения значений целевого признака и предсказаний в срезе двух недель и 48 часов.\
+Построены графики сравнения значений целевого признака и предсказаний в срезе двух недель и 48 часов.
+
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/3c25a8a5-59d5-46bf-9e5c-79461c152eb5)
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/5417a10b-50a2-4dad-8269-0d9eef20e4bb)
+
+
+
 Посмотреть проект: [Прогнозирование количества заказов такси на следующий час](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/Educational_project_5_ML_TimeSeries/Проект%20Временные%20ряды(финальная%20версия).ipynb)
 
 ## Использованные библиотеки и инструменты
 Python, Pandas, Scikit-learn, NumPy, Nltk, re, PyTorch, Transformers, CatBoost, Gensim, imbalanced-learn, tqdm, GridSearchCV
 ## Итоги проекта
 Лучшая модель LinearRegressor(), max_lag = 171, rolling_mean_size = 48, RMSE на тесте 34,7
-
-
-![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/a71ffb4d-45f4-4554-870b-a2a2a032ff73)
-
 
 #### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
