@@ -17,7 +17,7 @@ Python, Pandas, Scikit-learn, NumPy, Nltk, re, PyTorch, Transformers, CatBoost, 
 
 **Обучение моделей с BERT**
 
-Использовал предобученную модель с домена https://huggingface.co/martin-ha/toxic-comment-model\
+Использовал предобученную модель с домена https://huggingface.co/martin-ha/toxic-comment-model \
 Не создавал эмбердинги, а сразу получал предсказания модели. Очень быстрый результат, но метрика ниже заданного порога.\
 f1 = 0.727
 
