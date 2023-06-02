@@ -5,6 +5,8 @@
 
 <img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/6149324a-72d3-4410-94c7-29fb626f03cc" width="400" />
 
+**[ER-диаграмма с описанием таблиц](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/Educational_project_8_SQL/ER-диаграммы%20с%20описанием%20таблиц.md)**
+
 1. Посчитайте, сколько компаний закрылось.
 
 ```sql
