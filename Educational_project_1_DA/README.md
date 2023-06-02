@@ -81,20 +81,40 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Stats
 Самый популярный жанр Shooter. Второе место занимает Action. Вместе они занимают 61% рынка. \
 Больше всего покупают игры категории "М".
 
-
-<img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/cf022c7f-fa01-4994-a949-d78e1ebc314f" width="305"/>&nbsp;
-<img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/d0a48994-cbd6-4292-bc8d-6a8a56eb7a99" width="335"/>&nbsp;
-<img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/3fe73eb5-f063-4d16-be36-b8809237dccd" width="300"/>&nbsp;
+<table width="100%" border=0 cellspacing=0 cellpadding=10>
+  <tr>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/cf022c7f-fa01-4994-a949-d78e1ebc314f"/></td>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/d0a48994-cbd6-4292-bc8d-6a8a56eb7a99"/></td>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/3fe73eb5-f063-4d16-be36-b8809237dccd"/></td>
+  </tr>
+</table>
 
 
 В Европе самая популярная платформа PS4 - 62% рынка.\
 Самый популярный жанр Shooter - 32%. Второе место занимает Action - 27%.\
 Больше всего покупают игры категории "М".
 
+<table width="100%" border=0 cellspacing=0 cellpadding=10>
+  <tr>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/bf54b842-1eee-4707-8870-87d6249cc0c0"/></td>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/f3cd96d5-1f62-4b62-b781-e2290b3d23e7"/></td>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/aae0f3c8-5bb6-49c9-9cbd-87b6d3e42c98"/></td>
+  </tr>
+</table>
+
+
 В Японии первое место у платформы 3DS - 44%.\
 Самый популярный жанр Action, 50% всего рынка. Второе место у Role-Playing, 29%.\
 Больше всего покупают игры категории "Е" и "T", они занимают 64% рынка.\
 В отличии от остальных регионов, в Японии только 21% игр категории "М".
+
+<table width="100%" border=0 cellspacing=0 cellpadding=10>
+  <tr>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/0b80d204-4ce0-4653-9af8-332e047ec0f5"/></td>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/e9e65a4f-c13c-4034-b0cc-0b40135ae94c"/></td>
+    <td width="33%"><br/><img src="https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/0d3b0fea-a9e7-4a54-a61f-2ccf2a28c2ca"/></td>
+  </tr>
+</table>
 
 **Проверка гипотез.**\
 Гипотеза, что средние пользовательские рейтинги платформ Xbox One и PC одинаковые подтвердилась.\
