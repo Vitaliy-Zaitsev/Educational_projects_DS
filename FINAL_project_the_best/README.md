@@ -9,7 +9,8 @@
 ![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/ab378b73-1614-44a1-8366-756f27e6f563)
 ![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/875a20a3-7cf6-442a-adc1-aaac0ebf3c4a)
 ![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/c9d1104f-d469-4737-a5f0-5e36fd2c0ba0)
-![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/1a3849f5-150b-47c9-9701-2aafd9dd1b95)
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/199b5d99-5eaa-4ef7-bb14-93a0da72b2c5)
+
 
 
 
