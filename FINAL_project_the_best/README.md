@@ -1,6 +1,8 @@
 # Финальный проект 
 ## Machine Learning, Data preprocessing, Classification
 Посмотреть проект: [Финальный проект.ipynb](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/FINAL_project_the_best/Финальный%20проект.ipynb)
+## Использованные библиотеки и инструменты
+`Python`, `Pandas`, `Scikit-learn`, `NumPy`, `matplotlib`, `seaborn`, `LightGBM`, `phik`, `Pipeline`, `make_column_transformer`, `SimpleImputer`, `OneHotEncoder`, `TargetEncoder`, `StandardScaler`, `LogisticRegression`, `RandomForestClassifier`, `LGBMClassifier`, `GridSearchCV`
 ## Задачи проекта
 Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.
 
@@ -231,8 +233,7 @@
 Посмотреть проект: [Построение модели определения стоимости автомобиля](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/Educational_project_7_ML_Data_preprocessing/Численные%20методы.ipynb)
  
 
-## Использованные библиотеки и инструменты
-Python, Pandas, Scikit-learn, NumPy, matplotlib, seaborn, LightGBM, phik, Pipeline, make_column_transformer, SimpleImputer, OneHotEncoder, TargetEncoder, StandardScaler, LogisticRegression, RandomForestClassifier, LGBMClassifier, GridSearchCV
+
 
 #### [Список всех учебных проектов](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/README.md)
 
