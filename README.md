@@ -21,7 +21,7 @@
 
 Я уверен, что вы уже видели ранее проекты других выпускников Яндекс Практикум. Все они похожи друг на друга и не отличаются высоким качеством.
 
-Просто посмотрите мой [**Финальный проект**](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/edit/main/FINAL_project_the_best/README.md), Вам должно понравиться.
+Просто посмотрите мой [**Финальный проект**](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/FINAL_project_the_best/README.md), Вам должно понравиться.
 
 Задачи, решенные мной на языке SQL
 ---
