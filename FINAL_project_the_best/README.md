@@ -1,4 +1,4 @@
-# Финальный проект
+# Финальный проект 
 ## Machine Learning, Data preprocessing, Classification
 Посмотреть проект: [Финальный проект.ipynb](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/FINAL_project_the_best/Финальный%20проект.ipynb)
 ## Задачи проекта
