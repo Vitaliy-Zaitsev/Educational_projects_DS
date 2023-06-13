@@ -1,14 +1,30 @@
 # Data Science: портфолио
-Некоторые проекты, выполненные в период обучения на курсе [Специалист по Data Science](https://practicum.yandex.ru/data-scientist/) в период 2022-2023
----
+
 Основные навыки
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50"/>&nbsp;
                     
+Финальный проект
+---
+В нем я выложился на 150%. Я старался выполнить эту работу не "для галочки". 
+* Сложные визуализации с использованием Matplotlib и Seaborn.
+* Качественный и глубокий исследовательский анализ.
+* На этапе исследования модели создан pipeline, содержащий все этапы предобработки, кодирования и стандартизации данных.
+* Проведен анализ важности признаков и матрицы ошибок.
+* Каждый этап завершается подробными выводами. Они подтверждены наглядными графиками и содержат рекомендации для бизнеса на основе проведенного исследования.
 
+Задачи, решенные мной на языке SQL
+---
+Навыки написания запросов на языке SQL являются очень важной частью профессии Аналитик данных/Специалист по Data Science.
+
+Чтобы Вы смогли оценить мой уровень, посмотрите некоторые [**Задачи, решенные мной на языке SQL**](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/blob/main/Educational_project_8_SQL/Задачи%20на%20SQL.md)
+  
+
+Некоторые другие проекты, выполненные в период обучения на курсе [Специалист по Data Science](https://practicum.yandex.ru/data-scientist/) в период 2022-2023
+---
 |Название проекта|Направление|Задачи проекта|Использованные библиотеки|
 |-|--------|---|---|
 |1. [**Исследование данных о продаже компьютерных игр**](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/tree/main/Educational_project_1_DA)|Data Analytics|На основе исторических данных из открытых источников о продажах игр, оценках пользователей и экспертов, жанрах и платформах необходимо выявить определяющие успешность игры закономерности.| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23bfffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)|
