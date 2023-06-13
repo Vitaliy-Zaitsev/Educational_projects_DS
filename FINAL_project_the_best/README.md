@@ -199,7 +199,7 @@
 Важные признаки, которые зависят от условий компании, это метод оплаты, тип договора, услуги стримингового TV и MultipleLines.
 
 ### Анализ матрицы ошибок
-![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/b9a2c06d-32fd-4745-9a95-cb0d268d0b67)
+![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/f23aa76d-e281-49f8-b506-69fb297ef733)
 ![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/7e86fa2f-ec2c-4e15-b79f-0edcd132af05)
 ![image](https://github.com/Vitaliy-Zaitsev/Educational_projects_DS/assets/120369294/2eaded04-1901-442a-b370-605b709c676a)
 
